@@ -1,0 +1,12 @@
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\bin\Debug\MağazaOtamasyonu.exe.config
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\bin\Debug\MağazaOtamasyonu.exe
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\bin\Debug\MağazaOtamasyonu.pdb
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.csproj.AssemblyReference.cache
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.Form1.resources
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.Properties.Resources.resources
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.csproj.GenerateResource.cache
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.exe
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\obj\Debug\MağazaOtamasyonu.pdb
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\bin\Debug\Magaza.mdf
+C:\Users\Meryem\source\repos\MağazaOtamasyonu\MağazaOtamasyonu\bin\Debug\Magaza_log.ldf
